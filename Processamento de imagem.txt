@@ -1,0 +1,14 @@
+YOLO
+https://pjreddie.com/darknet/yolo/
+https://www.youtube.com/watch?v=6I9GlbsGb2U
+https://www.youtube.com/watch?v=sH-zuu-RVKo
+
+OPENCV
+https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+https://blog.cedrotech.com/opencv-uma-breve-introducao-visao-computacional-com-python
+https://www.galirows.com.br/meublog/blog/basico-opencv-python-video-webcam/
+https://www.youtube.com/watch?v=qCR2Weh64h4
+https://www.youtube.com/watch?v=0nRbvbl8Cck
+https://www.youtube.com/watch?v=25ERpsQcsrY
+https://www.youtube.com/watch?v=zAmI3YIuJWY
+https://www.youtube.com/watch?v=vKiKaErHfpw
